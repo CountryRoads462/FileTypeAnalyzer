@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-classes-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-reports-tests.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-test-results.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-tmp.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Create_a_callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-How_many_Callable_objects_are_there.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-How_many_tasks_are_finished.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Submitting_Callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-What_is_Callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-What_is_Future.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Forex_Broker.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Participants.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Real-World_examples.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Remote_Controller.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Stock_Broker.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Command-Use cases.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Handling_interruptions.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Interrupt_method.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Interrupting_a_thread.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-What_does_the_invocation_cause.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Check_the_essay.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Methods_of_a_string.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Methods_of_Matcher.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Remove_extra_spaces.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Remove_HTML_tags.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Replacing_characters-What_is_the_result.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-The_sum_of_elements.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Countdown_counter.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Methods.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Synchronize_the_code.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Thread-safe_account.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Two_methods,_two_statements.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-What_is_wrong.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" target="11" />
+      <module name="File_Type_Analyzer.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

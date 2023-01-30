@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/test-results" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Create a callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Submitting Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Future" />
+            <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Participants" />
+            <option value="$PROJECT_DIR$/Topics/Command/Real-World examples" />
+            <option value="$PROJECT_DIR$/Topics/Command/Remote Controller" />
+            <option value="$PROJECT_DIR$/Topics/Command/Stock Broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Interrupt method" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/What does the invocation cause" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Methods of Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Methods of a string" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove HTML tags" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove extra spaces" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Countdown counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Synchronize the code" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread synchronization in Java" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Two methods, two statements" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Where it is possible to write synchronized" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

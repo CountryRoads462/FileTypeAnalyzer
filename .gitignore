@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/File Type Analyzer/task/build/
+/File Type Analyzer/task/out/
+/File Type Analyzer/task/out/production/classes/
+/Topics/Replacing characters/Remove HTML tags/out/
+/Topics/Replacing characters/Remove HTML tags/out/production/classes/
